@@ -1,2 +1,2 @@
 # Learning-Purpose
-Config files for my GitHub profile.
+I am writing it for test purpose.
